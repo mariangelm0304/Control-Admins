@@ -1186,6 +1186,30 @@
       "observaciones": "",
       "updated": "2026-07-08T15:23:55.773Z",
       "created": "2026-07-08T15:23:55.773Z"
+    },
+    {
+      "id": "rmsg63b3mbfki",
+      "empleado": "NORIEGA ORTEGA SILVANA MILENA",
+      "cargo": "DIRECTOR DE MERCADEO RETAIL",
+      "tienda": "s01",
+      "tipo": "vacaciones",
+      "salida": "2026-10-29",
+      "regreso": "2026-11-05",
+      "observaciones": "",
+      "updated": "2026-08-05T14:13:26.386Z",
+      "created": "2026-08-05T14:13:26.387Z"
+    },
+    {
+      "id": "rmsg6bqkfth1n",
+      "empleado": "GOMEZ PEREZ REINALDO DE JESUS",
+      "cargo": "GERENTE DE VENTAS",
+      "tienda": "s01",
+      "tipo": "vacaciones",
+      "salida": "2026-09-10",
+      "regreso": "2026-09-29",
+      "observaciones": "",
+      "updated": "2026-08-05T14:19:59.679Z",
+      "created": "2026-08-05T14:19:59.679Z"
     }
   ],
   "cargos": [
@@ -1218,8 +1242,10 @@
     "ANALISTA DE MICROMERCADEO Y ALIANZAS",
     "ANALISTA SISTEMATICA COMERCIAL",
     "COORDINADOR DE CALIDAD DE PROCESOS CREDITO",
-    "DIRECTOR DE ANÁLISIS Y OTORGAMIENTO"
+    "DIRECTOR DE ANÁLISIS Y OTORGAMIENTO",
+    "DIRECTOR DE MERCADEO RETAIL",
+    "GERENTE DE VENTAS"
   ],
   "created": "2026-05-25T16:55:20.857Z",
-  "updated": "2026-07-08T15:23:55.773Z"
+  "updated": "2026-08-05T14:19:59.679Z"
 }
