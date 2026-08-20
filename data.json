@@ -692,6 +692,12 @@
       "nombre": "DE LA HOZ GÓMEZ VIRGILIO",
       "cargo": "DIRECTOR DE ANÁLISIS Y OTORGAMIENTO",
       "tienda": "s01"
+    },
+    {
+      "id": "emt1iy5ta",
+      "nombre": "AÑEZ SUÁREZ KEVHIN MAUREN",
+      "cargo": "JEFE DE SISTEMATICA COMERCIAL",
+      "tienda": "s01"
     }
   ],
   "records": [
@@ -1193,10 +1199,10 @@
       "cargo": "DIRECTOR DE MERCADEO RETAIL",
       "tienda": "s01",
       "tipo": "vacaciones",
-      "salida": "2026-10-29",
-      "regreso": "2026-11-05",
+      "salida": "2026-11-01",
+      "regreso": "2026-11-08",
       "observaciones": "",
-      "updated": "2026-08-05T14:13:26.386Z",
+      "updated": "2026-08-20T12:51:44.294Z",
       "created": "2026-08-05T14:13:26.387Z"
     },
     {
@@ -1206,10 +1212,34 @@
       "tienda": "s01",
       "tipo": "vacaciones",
       "salida": "2026-09-10",
-      "regreso": "2026-09-29",
+      "regreso": "2026-09-28",
       "observaciones": "",
-      "updated": "2026-08-05T14:19:59.679Z",
+      "updated": "2026-08-20T12:52:05.284Z",
       "created": "2026-08-05T14:19:59.679Z"
+    },
+    {
+      "id": "rmt1iuat1y6au",
+      "empleado": "BARRERA VEGA CARLOS MARIO",
+      "cargo": "JEFE ZONAL",
+      "tienda": "s01",
+      "tipo": "vacaciones",
+      "salida": "2026-08-21",
+      "regreso": "2026-09-06",
+      "observaciones": "",
+      "updated": "2026-08-20T12:53:30.805Z",
+      "created": "2026-08-20T12:53:30.806Z"
+    },
+    {
+      "id": "rmt1iy5tay7up",
+      "empleado": "AÑEZ SUÁREZ KEVHIN MAUREN",
+      "cargo": "JEFE DE SISTEMATICA COMERCIAL",
+      "tienda": "s01",
+      "tipo": "vacaciones",
+      "salida": "2026-08-10",
+      "regreso": "2026-08-24",
+      "observaciones": "",
+      "updated": "2026-08-20T12:56:30.958Z",
+      "created": "2026-08-20T12:56:30.958Z"
     }
   ],
   "cargos": [
@@ -1244,8 +1274,10 @@
     "COORDINADOR DE CALIDAD DE PROCESOS CREDITO",
     "DIRECTOR DE ANÁLISIS Y OTORGAMIENTO",
     "DIRECTOR DE MERCADEO RETAIL",
-    "GERENTE DE VENTAS"
+    "GERENTE DE VENTAS",
+    "JEFE ZONAL",
+    "JEFE DE SISTEMATICA COMERCIAL"
   ],
   "created": "2026-05-25T16:55:20.857Z",
-  "updated": "2026-08-05T14:19:59.679Z"
+  "updated": "2026-08-20T12:56:30.958Z"
 }
